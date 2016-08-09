@@ -55,14 +55,14 @@
                 android:id="@+id/txtHeaderMaintenance"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Maintenance History"
+                android:text="@string/cardview_maintenanceheader"
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:paddingLeft="6dp"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Check history...."
+                android:text="@string/cardview_maintenancesub"
                 android:paddingLeft="6dp"
                 />
         </LinearLayout>
@@ -93,14 +93,14 @@
                 android:id="@+id/txtHeaderAlert"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Alerts"
+                android:text="@string/cardview_alertsheader"
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:paddingLeft="6dp"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="View any upcoming important services..."
+                android:text="@string/cardview_alertssub"
                 android:paddingLeft="6dp"/>
         </LinearLayout>
 
@@ -130,14 +130,14 @@
                 android:id="@+id/txtHeaderSettings"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Settings"
+                android:text="@string/cardview_settingsheader"
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:paddingLeft="6dp"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Check history...."
+                android:text="@string/cardview_settingssub"
                 android:paddingLeft="6dp"
                 />
         </LinearLayout>
