@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">AutoMaintenance</string>
+    <string name="app_name">Auto Manage</string>
+    <string name="cardview_maintenancesub">Track details here</string>
+    <string name="cardview_maintenanceheader">Maintenance History</string>
+    <string name="cardview_alertsheader">Alerts</string>
+    <string name="cardview_alertssub">Important reminders</string>
+    <string name="cardview_settingsheader">Settings</string>
+    <string name="cardview_settingssub">Customize functionality</string>
 </resources>
